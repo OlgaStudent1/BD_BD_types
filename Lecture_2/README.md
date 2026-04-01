@@ -13,16 +13,14 @@
 
 ### Задание 2
 
-![alt text]()
-
-![alt text]()
+![alt text](https://github.com/OlgaStudent1/BD_BD_types/blob/main/Lecture_2/img/Snipaste_2026-04-01_16-22-43.png)
 
 
 ### Задание 3
 
-![alt text]()
+![alt text](https://github.com/OlgaStudent1/BD_BD_types/blob/main/Lecture_2/img/Snipaste_2026-04-01_17-27-10.png)
 
 
 ### Задание 4
 
-![alt text]()
+![alt text](https://github.com/OlgaStudent1/BD_BD_types/blob/main/Lecture_2/img/Snipaste_2026-04-01_17-55-34.png)
